@@ -1,4 +1,4 @@
-# Write your code here
+
 class CoffeeMachine:
     def __init__(self, water = 0, milk = 0, beans = 0, cups = 0, money = 0):
         self.water = water
