@@ -105,8 +105,8 @@ Switching on camera from habitat with rabbits...
       | jj /( .^
       >-"~"-v"
      /       Y
-    jo  o    |
-   ( ~T~     j
+     jo  o   |
+   (  ~T~    j
     >._-' _./
    /   "~"  |
   Y     _,  |
